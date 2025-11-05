@@ -1,10 +1,10 @@
 
-
+UPDATED VERSION IS ON BRANCH V2
 ```markdown
 # 🧠 Invoice Anomaly Detection App
 
 A simple **AI-powered anomaly detection** web application built with **Streamlit** and **Scikit-learn (Isolation Forest)**.  
-The app detects unusual invoice entries based on your trained model and allows real-time predictions through an interactive web interface.
+The app detects unusual invoice entries using your trained model and provides real-time predictions via an interactive web interface.
 
 ---
 
