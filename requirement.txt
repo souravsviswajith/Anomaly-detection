@@ -1,0 +1,8 @@
+# Core Libraries
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+joblib==1.4.2
+
+# Web App Framework
+streamlit==1.38.0
